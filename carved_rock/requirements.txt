@@ -3,3 +3,4 @@ django-debug-toolbar~=4.3
 pillow  # Note: if this fails, check https://pillow.readthedocs.io/en/stable/installation.html
 django-crispy-forms~=2.1
 crispy-bootstrap5
+psycopg2
